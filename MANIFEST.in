@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include trigger_solutions *.css
+recursive-include trigger_solutions *.csv
+recursive-include trigger_solutions *.html
+recursive-include trigger_solutions *.ico
+recursive-include trigger_solutions *.js
+recursive-include trigger_solutions *.json
+recursive-include trigger_solutions *.md
+recursive-include trigger_solutions *.png
+recursive-include trigger_solutions *.py
+recursive-include trigger_solutions *.svg
+recursive-include trigger_solutions *.txt
+recursive-exclude trigger_solutions *.pyc

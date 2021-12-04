@@ -10,12 +10,12 @@ app_icon = "fa fa-th"
 app_color = "#e74c3c"
 app_email = "trigger.solutions.eg@gmail.com"
 app_license = "Trigger Solutions General Private License"
-app_logo_url = "/assets/trigger_solutions/images/Trigger-Logo.png"
+app_logo_url = "/assets/trigger_solutions/images/Trigger-Solutions-Logo.png"
 
 
 website_context = {
-	"favicon": 	"/assets/trigger_solutions/images/logo.png",
-	"splash_image": "/assets/trigger_solutions/images/logo3.png"
+	"favicon": 	"/assets/trigger_solutions/images/Trigger-Solutions-Logo.png",
+	"splash_image": "/assets/trigger_solutions/images/Trigger-Solutions-Logo.png"
 }
 
 # Includes in <head>

@@ -10,7 +10,7 @@
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
-  color: #444444;
+  color: #2c2f30;
 }
 
 a {
@@ -19,7 +19,7 @@ a {
 }
 
 a:hover {
-  color: #73c5eb;
+  color: #161718;
   text-decoration: none;
 }
 
@@ -98,7 +98,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .back-to-top:hover {
-  background: #6bc1e9;
+  background: #777777;
   color: #fff;
 }
 
@@ -135,7 +135,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header .logo img {
-  max-height: 40px;
+  max-height: 50px;
 }
 
 /*--------------------------------------------------------------
@@ -179,7 +179,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar a:hover, .navbar .active, .navbar .active:focus, .navbar li:hover > a {
-  color: #0f455e;;
+  color: #858585;;
 }
 
 .navbar .getstarted {
@@ -194,7 +194,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .navbar .getstarted:hover {
   color: #fff;
-  background: #31a9e1;
+  background: #2c2f30;
 }
 
 .navbar .dropdown ul {
@@ -407,7 +407,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero .btn-get-started:hover {
-  background: #209dd8;
+  background: #343536;
 }
 
 #hero .btn-watch-video {
@@ -1553,7 +1553,7 @@ section {
 }
 
 .contact .php-email-form button[type="submit"]:hover {
-  background: #209dd8;
+  background: #777777;
 }
 
 @-webkit-keyframes animate-loading {
@@ -1767,7 +1767,7 @@ section {
 }
 
 #footer .footer-top .social-links a:hover {
-  background: #209dd8;
+  background: #777777;
   color: #fff;
   text-decoration: none;
 }
